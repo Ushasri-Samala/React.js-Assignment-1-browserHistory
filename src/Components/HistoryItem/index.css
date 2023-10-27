@@ -1,0 +1,27 @@
+.list-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.time-accessed {
+  margin-right: 20px;
+}
+.title {
+  margin-left: 10px;
+}
+.logo-url {
+  height: 15px;
+}
+.domain-url {
+  margin-left: 10px;
+  color: #64748b;
+  font-size: 12px;
+}
+
+.delete-icon {
+}
